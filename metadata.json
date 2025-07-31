@@ -1,0 +1,6 @@
+{
+  "name": "RAG AI Kiosk Chatbot",
+  "description": "A Retrieval-Augmented Generation (RAG) AI chatbot designed for large-screen kiosk displays. It answers questions based on a knowledge base and displays rotating advertisements.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
